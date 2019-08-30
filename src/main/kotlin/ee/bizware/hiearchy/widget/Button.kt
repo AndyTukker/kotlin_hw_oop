@@ -1,4 +1,3 @@
 package ee.bizware.hiearchy.widget
 
-class Button {
-}
+class Button(text: String): TextView(text)
