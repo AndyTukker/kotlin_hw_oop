@@ -1,5 +1,8 @@
 package ee.bizware.profile
 
+import ee.bizware.profile.model.Picture
+import ee.bizware.profile.model.Profile
+
 fun main(){
     val userAvatar = Picture("d:/pictures/img_201908291230.jpg")
     val avatarHeight = userAvatar.height

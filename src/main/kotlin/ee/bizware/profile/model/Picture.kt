@@ -1,4 +1,4 @@
-package ee.bizware.profile
+package ee.bizware.profile.model
 
 class Picture constructor(
     val fileName: String
